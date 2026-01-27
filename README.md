@@ -37,7 +37,7 @@ The materials in this repository are suitable for:
 
 <hr/>
 
-<h2>Topics Covered (Indicative)</h2>
+<h2>Topics Covered</h2>
 
 <p>
 The course covers the core topics of introductory and intermediate business statistics, including:
