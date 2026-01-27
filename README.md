@@ -3,7 +3,7 @@
 
 <hr/>
 
-<h2>About the Course</h2>
+<h2>📘 About the Course</h2>
 
 <p>
 <strong>STAT 2601: Business Statistics</strong> is an undergraduate-level course designed to provide students with a solid foundation in
