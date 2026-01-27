@@ -85,7 +85,7 @@ The repository includes the following chapter-based lecture notes:
 <hr/>
 
   <div class="section">
-    <h2>📌 Notes</h2>
+    <h2> Notes</h2>
     <ul>
       <li>Statistical software, Excel, will be used for analysis.</li>
       <li>Lecture and lab materials will be updated throughout the term.</li>
