@@ -6,8 +6,7 @@
 <h2>About the Course</h2>
 
 <p>
-<strong>STAT 2601: Business Statistics</strong> is an undergraduate-level course taught by
-<strong>Esam Mahdi, PhD</strong>, designed to provide students with a solid foundation in
+<strong>STAT 2601: Business Statistics</strong> is an undergraduate-level course designed to provide students with a solid foundation in
 statistical methods for business, economics, and analytics.
 </p>
 
